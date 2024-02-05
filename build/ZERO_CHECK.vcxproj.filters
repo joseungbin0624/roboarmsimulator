@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\project\roboarmsimulator\build\CMakeFiles\2d904462fe5fb778f7adde752c9420ae\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C313F383-2FC7-359E-8EA3-A2C86989E2E7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
